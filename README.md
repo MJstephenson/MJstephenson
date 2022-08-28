@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MJstephenson
-- 👀 I’m interested in frontend and backend 
+- 👀 I’m interested in frontend and backend development
 - 🌱 I’m currently learning with theCode Institute to become a fullstack developer
 - 💞️ I’m looking to collaborate on a few Hackathons during my learning journey on the course
 - 📫 How to reach me ...
